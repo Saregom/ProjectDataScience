@@ -309,7 +309,7 @@ zeytin,4
 zucchini cooked,24
 zucchini ,23
 zucchini raw/fresh,23
-breaded mushrooms,30
+breaded mushroom,30
 champignons,37
 chanterelle mushrooms,2
 chanterelles,23
@@ -322,7 +322,7 @@ mushrooms raw,4
 oyster mushroom,5
 porcini mushroom,47
 porcini mushroom dried,33
-shiitake mushrooms,5
+shiitake mushroom,5
 truffles,14
 white button mushrooms,10
 arugula ,7
@@ -1217,7 +1217,7 @@ pierogi,250
 ravioli,242
 rigatoni,265
 rotini,297
-shirataki noodles,606
+shirataki noodle,606
 soy noodles,292
 spagetti ,265
 spaghetti cooked,196
@@ -2778,7 +2778,7 @@ fenugreek,22
 garlic salt,0
 ginger,1
 ginger root,9
-ginger tea bags ,5
+ginger tea bag ,5
 green pepper,1
 green tea,1
 ground elder,1
@@ -2845,7 +2845,7 @@ cheese crackers,10
 cheese popcorn,526
 chester,243
 chips,170
-chocolate rice cakes,7
+chocolate rice cake,7
 corn cake,7
 corn chips,144
 corn thins original,48
@@ -2879,5 +2879,5 @@ sweet peas,11
 sweet potato chips,66
 taro chips,58
 tepary bean,114
-tortilla chips,9
+tortilla chip,9
 vegetable chips,154
